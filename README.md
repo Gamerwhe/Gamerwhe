@@ -52,4 +52,4 @@ class SoccerGame
             }
         }
     }
-}
+}![_37206958-df01-4322-a0b9-27b63305c65c](https://github.com/Gamerwhe/Gamerwhe/assets/165196899/9be17c1e-c42c-4aa5-ab7c-ae6cca0bf851)
